@@ -5,7 +5,7 @@
 # Available on telegram as @ZALA_MUSIC_BOT and @ZalamusicBotAssistant
 
 <p align="center">
-  <img src="https://telegra.ph/file/0e0509861103d84810678.jpg">
+  <img src="https://te.legra.ph/file/f60dd017a10f1fbc69a48.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
