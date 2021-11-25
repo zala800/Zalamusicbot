@@ -20,7 +20,7 @@ from os import path
 
 from youtube_dl import YoutubeDL
 
-from Zalamuaic.config import DURATION_LIMIT
+from Zalamusic.config import DURATION_LIMIT
 from Zalamusic.helpers.errors import DurationLimitError
 
 ydl_opts = {
