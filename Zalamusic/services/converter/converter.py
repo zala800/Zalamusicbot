@@ -18,7 +18,7 @@
 import asyncio
 from os import path
 
-from Zalamuaic.helpers.errors import FFmpegReturnCodeError
+from Zalamusic.helpers.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
