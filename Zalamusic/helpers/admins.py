@@ -20,7 +20,7 @@ from typing import List
 from pyrogram.types import Chat, User
 
 from Zalamusic.function.admins import get as gett
-from ZalaMusic.function.admins import set
+from Zalamusic.function.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[User]:
