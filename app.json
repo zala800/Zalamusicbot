@@ -31,7 +31,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "MafiaBot_Support"
+      "value": "BAKCHODZ"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -54,12 +54,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/0e0509861103d84810678.jpg"
+      "value": "https://te.legra.ph/file/f60dd017a10f1fbc69a48.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "MafiaBot_Support"
+      "value": "BAKCHODZ"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
