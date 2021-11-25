@@ -18,7 +18,7 @@
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
 import asyncio
-from Zalamuaic.helpers.decorators import authorized_users_only, errors
+from Zalamusic.helpers.decorators import authorized_users_only, errors
 from Zalamusic.services.callsmusic.callsmusic import client as USER
 from Zalamusic.config import SUDO_USERS, BOT_USERNAME
 
